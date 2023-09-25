@@ -84,8 +84,8 @@ export default function Footer() {
         <div className="border-t border-white/20 py-8">
           <p className="text-center text-xs font-light">
             Cloned by{' '}
-            <a href="https://heyley.dev" target="_blank" className="font-normal underline decoration-teal-500">
-              heyley.dev
+            <a href="https://github.com/afolabidamilare08 target="_blank" className="font-normal underline decoration-teal-500">
+              0xEze
             </a>
           </p>
         </div>
